@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BrQFNosgFiE=",
+  "dgSpecHash": "eHDugHH5yfE=",
   "success": true,
   "projectFilePath": "C:\\Users\\hasan\\RiderProjects\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
   "expectedPackageFiles": [
@@ -48,9 +48,8 @@
     "C:\\Users\\hasan\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
     "C:\\Users\\hasan\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\hasan\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512",
-    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100\\microsoft.net.sdk.compilers.toolset.9.0.100.nupkg.sha512",
-    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\hasan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\hasan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\hasan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
   ],

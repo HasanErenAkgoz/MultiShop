@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ng+cyQMG3ak=",
+  "dgSpecHash": "mqjP4TWVk4s=",
   "success": true,
   "projectFilePath": "C:\\Users\\hasan\\RiderProjects\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj",
   "expectedPackageFiles": [
@@ -49,9 +49,8 @@
     "C:\\Users\\hasan\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\hasan\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\hasan\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100\\microsoft.net.sdk.compilers.toolset.9.0.100.nupkg.sha512",
-    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\hasan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\hasan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": [

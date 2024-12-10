@@ -66,10 +66,6 @@
               "version": "[6.0.36, 6.0.36]"
             },
             {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.100, 9.0.100]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[6.0.36, 6.0.36]"
             },
@@ -149,10 +145,6 @@
               "version": "[6.0.36, 6.0.36]"
             },
             {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.100, 9.0.100]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[6.0.36, 6.0.36]"
             },
@@ -226,10 +218,6 @@
             {
               "name": "Microsoft.AspNetCore.App.Ref",
               "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.100, 9.0.100]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
@@ -327,10 +315,6 @@
             {
               "name": "Microsoft.AspNetCore.App.Ref",
               "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.100, 9.0.100]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
@@ -441,10 +425,6 @@
             {
               "name": "Microsoft.AspNetCore.App.Ref",
               "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.100, 9.0.100]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",

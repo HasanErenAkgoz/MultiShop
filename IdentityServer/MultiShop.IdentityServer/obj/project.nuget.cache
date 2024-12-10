@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "i/E6ELrG1/g=",
+  "dgSpecHash": "yfy5r637ytI=",
   "success": true,
   "projectFilePath": "C:\\Users\\hasan\\RiderProjects\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
   "expectedPackageFiles": [
@@ -115,9 +115,8 @@
     "C:\\Users\\hasan\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\hasan\\.nuget\\packages\\system.threading.timer\\4.0.1\\system.threading.timer.4.0.1.nupkg.sha512",
     "C:\\Users\\hasan\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100\\microsoft.net.sdk.compilers.toolset.9.0.100.nupkg.sha512",
-    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\hasan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\hasan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\hasan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
   ],
